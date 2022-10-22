@@ -1,9 +1,9 @@
 
 
 # CMPE272 HW4
-Team Members:
-Bhavya Hegde - 016656029
-Darshini Venkatesha Murthy Nag - 016668951
+Team Members:\
+Bhavya Hegde - 016656029\
+Darshini Venkatesha Murthy Nag - 016668951\
 Sirisha Polisetty - 016012477
 
 
